@@ -1,0 +1,3 @@
+- kolom pencarian barang
+- card list barang
+- menu tambah barang
